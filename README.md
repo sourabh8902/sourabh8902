@@ -3,18 +3,25 @@
 <p align="center">📍 Indore, Madhya Pradesh, India</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=React+Native+Developer+%7C+4%2B+Years;Cross-platform+apps+for+Android+%26+iOS;HRMS+%7C+Delivery+%7C+Social+%7C+Booking+apps;Clean%2C+scalable+mobile+architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=React+Native+Developer+%7C+4%2B+Years;Cross-platform+apps+for+Android+%26+iOS;6%2B+apps+live+on+Play+Store+%26+App+Store;Clean%2C+scalable+mobile+architecture" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 **React Native Developer** at **Virtual Height IT Services Pvt. Ltd.** (May 2023 – Present)
-- 📱 **4+ years** building cross-platform mobile apps for **Android & iOS**
-- 📦 Working on React Native feature development, API integration, and Android/iOS **builds & releases**
-- 🧩 Domains: **HRMS & Payroll, Food & Grocery Delivery, Social & Anonymous Messaging, E-commerce, Flight & Cinema Booking, Location-based apps**
-- 💬 Ask me about **React Native, TypeScript, Redux Toolkit, REST APIs, Firebase**
+I'm a **React Native Developer** with **4+ years** of professional experience building and shipping production-grade cross-platform mobile applications for **Android & iOS**. I enjoy taking features from idea to the app store — writing clean, scalable, maintainable code, integrating complex APIs and SDKs, and crafting smooth, reliable user experiences.
+
+- 🔭 Currently a **React Native Developer** at **Virtual Height IT Services Pvt. Ltd.** (May 2023 – Present)
+- 👥 **Lead & mentor a team of 4 React Native developers** — technical guidance, code reviews & delivery
+- 🚀 Shipped **6+ apps live** on the **Google Play Store & Apple App Store**, end-to-end
+- 🏗️ Strong in **clean architecture, reusable components, performance optimization & app stability**
+- 🔌 Experienced with **authentication & OTP, token refresh, geolocation & geofencing, push notifications, real-time communication, and payment/subscription flows**
+- 📦 Hands-on with **Android & iOS builds, release configuration, and store publishing**
+- 🤝 Collaborate closely with **backend, QA & design** teams to deliver quality features
+- 🧩 Domains: **HRMS & Payroll · Food & Grocery Delivery · Social & Anonymous Messaging · E-commerce · Flight & Cinema Booking · Location-based apps**
+- 💬 Ask me about **React Native, TypeScript, Redux Toolkit, REST APIs, Firebase & RevenueCat**
+- 📫 Reach me at **sourabhjaiswal8839@gmail.com**
 
 ---
 
@@ -39,7 +46,12 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+**Payments & Subscriptions**
+
+![RevenueCat](https://img.shields.io/badge/RevenueCat-F2545B?style=for-the-badge&logo=revenuecat&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
+![In-App Purchases](https://img.shields.io/badge/In--App_Purchases-34A853?style=for-the-badge&logo=googleplay&logoColor=white)
 
 **Tools**
 
@@ -54,12 +66,15 @@
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| **HRMS & Payroll** | Employee attendance (geofencing + face detection), leave management, salary slips & advances | 🟢 Live |
-| **F&G Delivery Ecosystem** | 3-app on-demand platform — Customer, Vendor & Delivery Partner apps | 🟡 In Development |
-| **SGNT** | Social networking for pet owners, Agora video calling, vendor & vaccine management | ✅ Delivered |
-| **Slips** | Anonymous messaging app — contact sync, Q&A slips, stickers/packs & reveal plans (in-app purchases) | 🟡 In Development |
-| **Evolution Jet** | Flight search & booking app with FCM notifications | ✅ Delivered |
-| **Connplex** | Cinema seat selection & booking app | ✅ Delivered |
+| **HRMS & Payroll** | Attendance (GPS geofencing + face detection), leave management, salary slips & advances | 🟢 Live |
+| **SGNT** | Social networking for pet owners — Agora video calling, vendor & vaccine management | 🟢 Live |
+| **Slips** | Anonymous messaging app — contact sync, Q&A, stickers/packs & RevenueCat reveal plans | 🟢 Live |
+| **Evolution Jet** | Flight search & booking app with FCM notifications | 🟢 Live |
+| **Connplex** | Cinema seat selection & booking app | 🟢 Live |
+| **SEM Ecosystem** | Business directory & discovery with geolocation + map search | 🟢 Live |
+| **Cryconnect** | Instagram-style social app — posts, reels, contests, CometChat messaging, crypto payments | ✅ Delivered |
+| **MyDiaNet** | Gold & jewellery mobile app — product catalog & ordering workflows | ✅ Delivered |
+| **F&G Delivery** | 3-app on-demand platform — Customer, Vendor & Delivery Partner | 🟡 In Development |
 
 ---
 
@@ -67,6 +82,18 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabhjaiswal89)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourabhjaiswal8839@gmail.com)
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sourabh-native/Sourabh-native/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sourabh-native/Sourabh-native/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Sourabh-native/Sourabh-native/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
