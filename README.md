@@ -13,7 +13,7 @@
 I'm a **React Native Developer** with **4+ years** of professional experience building and shipping production-grade cross-platform mobile applications for **Android & iOS**. I enjoy taking features from idea to the app store — writing clean, scalable, maintainable code, integrating complex APIs and SDKs, and crafting smooth, reliable user experiences.
 
 - 🔭 Currently a **React Native Developer** at **Virtual Height IT Services Pvt. Ltd.** (May 2023 – Present)
-- 👥 **Lead & mentor a team of 4 React Native developers** — technical guidance, code reviews & delivery
+- 👥 **Lead & mentor junior React Native developers** — technical guidance, code reviews & delivery
 - 🚀 Shipped **6+ apps live** on the **Google Play Store & Apple App Store**, end-to-end
 - 🏗️ Strong in **clean architecture, reusable components, performance optimization & app stability**
 - 🔌 Experienced with **authentication & OTP, token refresh, geolocation & geofencing, push notifications, real-time communication, and payment/subscription flows**
